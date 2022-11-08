@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "./static/css/main.6e025977.css",
+    "main.js": "./static/js/main.27262f6b.js",
+    "static/media/towardsInfinity.png": "./static/media/towardsInfinity.1b560e89a90af8031e0d.png",
+    "static/media/let the magic happen.png": "./static/media/let the magic happen.00178f20417570101a93.png",
+    "static/media/testimonials.png": "./static/media/testimonials.eed672be6f1b6a21413d.png",
+    "static/media/appstore.png": "./static/media/appstore.7694c6bb56f6917927e7.png",
+    "static/media/exist.png": "./static/media/exist.35f5d1e722be5b24a4d0.png",
+    "static/media/cornileo big.png": "./static/media/cornileo big.58963abad91925ef252a.png",
+    "static/media/premium 3d quality.png": "./static/media/premium 3d quality.a9e5fac13e5eff284380.png",
+    "static/media/hero.png": "./static/media/hero.7007f8c771ff059484e1.png",
+    "static/media/always go furthur.png": "./static/media/always go furthur.7e9cab8212da32802c0a.png",
+    "static/media/user5.png": "./static/media/user5.37d888a6b11522def7ba.png",
+    "static/media/user7.png": "./static/media/user7.5cf0bf1c5997cb067212.png",
+    "static/media/user4.png": "./static/media/user4.8b8ccd7b18d8cb844d4f.png",
+    "static/media/user2.png": "./static/media/user2.9e73a7c285786ac6745e.png",
+    "static/media/user8.png": "./static/media/user8.dca6231b78a1f6935b72.png",
+    "static/media/user9.png": "./static/media/user9.19cc7c67b526fddad24d.png",
+    "static/media/user6.png": "./static/media/user6.81ba27c8e057e2ea4389.png",
+    "static/media/user10.png": "./static/media/user10.be2ddf48d1a6a81a668a.png",
+    "static/media/user3.png": "./static/media/user3.00b29cb305b2d431b32b.png",
+    "static/media/sketch.png": "./static/media/sketch.01e569da637affc2fd41.png",
+    "static/media/each lesser detail matters.png": "./static/media/each lesser detail matters.e10aa52868f17fcf669f.png",
+    "static/media/user1.png": "./static/media/user1.e1b7938462aec07d6b0d.png",
+    "index.html": "./index.html",
+    "main.6e025977.css.map": "./static/css/main.6e025977.css.map",
+    "main.27262f6b.js.map": "./static/js/main.27262f6b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e025977.css",
+    "static/js/main.27262f6b.js"
+  ]
+}
